@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ╔══════════════════════════════════════════════════════════════════════════╗
-# ║  NXC-GEN v2.0 — NetExec One-Liner Command Generator                    ║
-# ║  Senior Red Team Edition | 130+ Commands | Smart Conditional Output     ║
+# ║  NXC-GEN v2.0 — NetExec One-Liner CommandGen by @Mahdiesta               ║
+# ║  Senior Red Team Edition | 130+ Commands | Smart Conditional Output      ║
 # ╚══════════════════════════════════════════════════════════════════════════╝
 
 VERSION="2.0"
@@ -48,7 +48,7 @@ banner() {
     ██╔██╗ ██║ ╚███╔╝ ██║        ██║  ███╗█████╗  ██╔██╗ ██║
     ██║╚██╗██║ ██╔██╗ ██║        ██║   ██║██╔══╝  ██║╚██╗██║
     ██║ ╚████║██╔╝ ██╗╚██████╗   ╚██████╔╝███████╗██║ ╚████║
-    ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝    ╚═════╝ ╚══════╝╚═╝  ╚═══╝
+    ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝    ╚═════╝ ╚══════╝╚═╝  ╚═══╝ by @Mahdiesta
 EOF
     echo -e "${NC}"
     echo -e "    ${BD}${GOLD}NetExec One-Liner Command Generator${NC} ${DIM}v${VERSION}${NC}"
