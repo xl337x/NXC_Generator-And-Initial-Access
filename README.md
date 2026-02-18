@@ -18,15 +18,13 @@ Generates 130+ customized NetExec commands for your target environment — from 
 
 ```bash
 # adblood — AD Initial Access
-curl -sSL https://raw.githubusercontent.com/xl337x/NXC_Generator-And-Initial-Access/main/AD_intial.sh -o /usr/local/bin/adblood && chmod +x /usr/local/bin/adblood
+sudo curl -sSL https://raw.githubusercontent.com/xl337x/NXC_Generator-And-Initial-Access/main/AD_intial.sh -o /usr/local/bin/adblood && sudo chmod +x /usr/local/bin/adblood
 ```
 
 ```bash
 # nxcgen — NetExec Command Generator
-curl -sSL https://raw.githubusercontent.com/xl337x/NXC_Generator-And-Initial-Access/main/nxc-gen.sh -o /usr/local/bin/nxcgen && chmod +x /usr/local/bin/nxcgen
+sudo curl -sSL https://raw.githubusercontent.com/xl337x/NXC_Generator-And-Initial-Access/main/nxc-gen.sh -o /usr/local/bin/nxcgen && sudo chmod +x /usr/local/bin/nxcgen
 ```
-
-> Run with `sudo` if `/usr/local/bin` requires root.
 
 ## Usage
 
